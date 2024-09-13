@@ -1,0 +1,8 @@
+** ( you need hexeditor to solve the challenge "you can use web hexeditore" )
+
+1- open the file with hexeditor
+2- the file will start with "Rar" so the file will be (ADSL.rar)
+3- rename the file to be .rar 
+4- open the file with winrar and the flag will be ther
+*for mor details see the pic in the file 
+**FLAG = Flag{reversing_FW_is_interesting_but_this_is_for_fun}
